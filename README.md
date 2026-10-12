@@ -9,7 +9,7 @@ press Play.
 
 1. Install [Prism Launcher](https://prismlauncher.org) and log in with your Microsoft account.
 2. **Add Instance → Import**, paste
-   `https://raw.githubusercontent.com/moxventura/tafelboem-pack/main/TafelBoem-instance.zip`
+   `https://raw.githubusercontent.com/moxventura/tafelboem-pack/main/TafelBoem.zip`
    and press OK.
 3. Press **Play**. A small window downloads the newest TafelBoem first.
 
@@ -25,7 +25,7 @@ Never copy jars into this instance's `mods` folder by hand: packwiz manages that
 | `pack.toml`, `index.toml` | packwiz metadata: Minecraft 26.2, Fabric Loader 0.19.5, and a sha256 per file |
 | `mods/tafelboem.jar` | the TafelBoem mod |
 | `mods/fabric-api.jar` | Fabric API |
-| `TafelBoem-instance.zip` | a Prism instance that runs the packwiz updater before every launch |
+| `TafelBoem.zip` | a Prism instance that runs the packwiz updater before every launch |
 
 ## Licences
 
