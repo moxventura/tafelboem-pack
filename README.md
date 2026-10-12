@@ -13,8 +13,8 @@ press Play.
    and press OK.
 3. Press **Play**. A small window downloads the newest TafelBoem first.
 
-No internet? Choose **Doorgaan zonder bijwerken** (continue without updating) in the packwiz
-window to play the version you already have.
+No internet, or GitHub not reachable? The packwiz window shows an error: choose **Continue without
+updating** to play the version you already have.
 
 Never copy jars into this instance's `mods` folder by hand: packwiz manages that folder.
 
