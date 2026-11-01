@@ -6,4 +6,14 @@ hash = "e5b858ceb13290c274e31cb888ff5a1a40cb91067e7ffab0b5b775aec51e216a"
 
 [[files]]
 file = "mods/tafelboem.jar"
-hash = "88b59f113f26f2149a36f3037da334165ed41eefaa40344d4aca649bce67b510"
+hash = "09c3d6085fb030c48e71dd464baa83f057b726f1834f8262325b32e1de02e205"
+
+[[files]]
+file = "saves/TafelBoem/data/minecraft/world_gen_settings.dat"
+hash = "b67abec3e47647ef502309536b3b38c5976507e69b16ddfcc5ca0c05a1be7cbe"
+preserve = true
+
+[[files]]
+file = "saves/TafelBoem/level.dat"
+hash = "229c5d451addc5a20a2e0e3b2da71873c29f4a960062baad37b0b249ef78995a"
+preserve = true
