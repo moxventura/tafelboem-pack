@@ -1,11 +1,11 @@
 name = "TafelBoem"
-version = "1.1.2"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "580ad450a266afb40cb5e1295cbf3ad2765965a60b53b44e4ef1f3b575c231fd"
+hash = "bfe539d9a76df7a12c95d7e488aefcaf81a36215f070c82d2f822c60148cdb86"
 
 [versions]
 minecraft = "26.2"

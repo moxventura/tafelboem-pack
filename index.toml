@@ -6,7 +6,7 @@ hash = "e5b858ceb13290c274e31cb888ff5a1a40cb91067e7ffab0b5b775aec51e216a"
 
 [[files]]
 file = "mods/tafelboem.jar"
-hash = "09c3d6085fb030c48e71dd464baa83f057b726f1834f8262325b32e1de02e205"
+hash = "b3f9db8aa3837eedd23210fbc9edcaadf4b66c119b691656df2eb1108f9b7375"
 
 [[files]]
 file = "saves/TafelBoem/data/minecraft/world_gen_settings.dat"
